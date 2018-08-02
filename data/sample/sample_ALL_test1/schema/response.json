@@ -1,0 +1,31 @@
+{
+  "type": "response",
+  "data": {
+    "schemaData": {
+      "type": "object",
+      "required": [
+        "success"
+      ],
+      "properties": {
+        "success": {
+          "type": "boolean",
+          "description": "success  flag form server side"
+        },
+        "data": {
+          "type": "string",
+          "description": "data from server side"
+        },
+        "errorMessage": {
+          "type": "string",
+          "description": "error message form server side"
+        },
+        "errorCode": {
+          "type": "number",
+          "description": "error code form server side"
+        }
+      }
+    }
+  },
+  "interfaceUniqId": "cd48d6e6-aff3-4d7a-9b9f-12e0c50a5915",
+  "uniqId": "88b1f1d9-7c64-4d90-81fb-dbcd04450fbe"
+}

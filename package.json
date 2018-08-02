@@ -41,7 +41,7 @@
     "karma-coverage-istanbul-reporter": "^1.2.1",
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
-    "macaca-datahub": "^1.1.1",
+    "macaca-datahub": "2",
     "macaca-electron": "2",
     "protractor": "~5.1.2",
     "ts-node": "~4.1.0",

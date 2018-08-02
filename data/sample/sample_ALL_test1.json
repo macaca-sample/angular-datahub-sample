@@ -1,0 +1,13 @@
+{
+  "protocol": "http",
+  "pathname": "test1",
+  "method": "ALL",
+  "projectUniqId": "bb98a800-62f2-457f-b3c6-3770d6f0ff1d",
+  "description": "interface test",
+  "currentScene": "scene1",
+  "proxyConfig": {
+    "proxyList": []
+  },
+  "contextConfig": {},
+  "uniqId": "cd48d6e6-aff3-4d7a-9b9f-12e0c50a5915"
+}
